@@ -2,13 +2,13 @@
 ## demo：
 ## 项目演示视频
 
-[![视频1](https://i0.hdslb.com/bfs/archive/4e768dd00cf67e6c5e9c2c259ee44dfc4f39b9a5.jpg@480w_270h_1c)](https://www.bilibili.com/video/BV12dacz1EoM/?vd_source=bfb49e9498218caf31193e8590b09291)
+## 项目演示视频
 
-[![视频2](https://i0.hdslb.com/bfs/archive/4e768dd00cf67e6c5e9c2c259ee44dfc4f39b9a5.jpg@480w_270h_1c)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=2)
+[![函数图像]([![2025-09-02-171642.png](https://i.postimg.cc/KzYjxMH5/2025-09-02-171642.png)](https://postimg.cc/PLBTMPhL))](https://www.bilibili.com/video/BV12dacz1EoM/?vd_source=bfb49e9498218caf31193e8590b09291)
+[![线性变换](assets/video2.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=2)
+[![冒泡排序](assets/video3.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=3)
+[![选择排序](assets/video4.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=4)
 
-[![视频3](https://i0.hdslb.com/bfs/archive/4e768dd00cf67e6c5e9c2c259ee44dfc4f39b9a5.jpg@480w_270h_1c)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=3)
-
-[![视频4](https://i0.hdslb.com/bfs/archive/4e768dd00cf67e6c5e9c2c259ee44dfc4f39b9a5.jpg@480w_270h_1c)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=4)
 
 ### 配置环境：
 1.安装python（版本3.7及以上）
