@@ -4,9 +4,12 @@
 
 ## 项目演示视频
 
-[![函数图像]([![2025-09-02-171642.png](https://i.postimg.cc/KzYjxMH5/2025-09-02-171642.png)](https://postimg.cc/PLBTMPhL))](https://www.bilibili.com/video/BV12dacz1EoM/?vd_source=bfb49e9498218caf31193e8590b09291)
+[![函数图像]([[![2025-09-02-171642.png](https://i.postimg.cc/KzYjxMH5/2025-09-02-171642.png](https://i.postimg.cc/KzYjxMH5/2025-09-02-171642.png))](https://postimg.cc/PLBTMPhL))](https://www.bilibili.com/video/BV12dacz1EoM/?vd_source=bfb49e9498218caf31193e8590b09291)
+
 [![线性变换](assets/video2.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=2)
+
 [![冒泡排序](assets/video3.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=3)
+
 [![选择排序](assets/video4.png)](https://www.bilibili.com/video/BV12dacz1EoM?vd_source=bfb49e9498218caf31193e8590b09291&p=4)
 
 
